@@ -4,7 +4,7 @@
 #### Actividad extracurricular 06b - Factoreo en transformers
 
 
-#### link repositorio: [Actividad extracurricular 6b]()
+#### link repositorio: [Actividad extracurricular 6b](https://github.com/Erick-1213/EspacioMN2026/tree/369d36dca1c9e97058df186d630bb3d8a4c6b37e/ActividadesExtras/%5BActividad%20extracurricular%2006b%5D%20Factoreo%20en%20transformers)
 ---
 
 
@@ -87,6 +87,8 @@ El factoreo permite entrenar y ejecutar modelos Transformer más grandes, profun
 
 Las matrices reducidas permiten adaptar modelos grandes a computadoras con menos recursos, facilitando su uso en distintos entornos.
 
+--- 
+
 ## Ventajas del factoreo en Transformers
 
 - Disminuye el número de parámetros del modelo.
@@ -95,6 +97,8 @@ Las matrices reducidas permiten adaptar modelos grandes a computadoras con menos
 - Facilita la compresión del modelo.
 - Permite trabajar con secuencias más largas.
 - Favorece el despliegue en hardware con recursos limitados.
+
+---
 
 ## En Conclusión
 
